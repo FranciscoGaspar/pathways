@@ -1,2 +1,2 @@
-# pathways
+# Pathways
 Welcome to the future
